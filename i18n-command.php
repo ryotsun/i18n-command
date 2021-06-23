@@ -1,4 +1,5 @@
 <?php
+// add comment
 
 if ( ! class_exists( 'WP_CLI' ) ) {
 	return;
